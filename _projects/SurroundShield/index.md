@@ -1,38 +1,41 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: SurroundShield – Your AI-Powered Environmental Risk Assistant
+description:  SurroundShield is an advanced AI-powered chatbot that offers real-time, personalized safety insights based on a user's location, weather conditions, and health profile (BMI). Designed with a sleek UI and powered by cutting-edge AI models, it acts as a digital guardian—helping users stay ahead of environmental hazards, community risks, and natural disasters.
+
+Built for Chubb’s innovation challenge, SurroundShield combines multi-source data, robust backend services, and a fine-tuned LLM (LLaMA 3.3 - 70B) to deliver immediate, actionable, and context-aware guidance.
+
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Databricks
+  - LLM
+  - React.js
+  - Node.js
+  - Flask API
+  - MongoDB
+  - LLAMA
 
-main-image: /project2.jpg
+main-image: /logo-ss.jpeg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
 
+# Code
 
-## Embedding images 
+[Github](https://github.com/yashdd/SurroundShield)
+
+## Demo
+
+[Youtube](https://www.youtube.com/watch?v=prmbRBFXmvA)
+
+<!-- ## Embedding images
 ### External images
 {% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>
+You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.
 
 ### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+{% include image-gallery.html images="project2.jpg" height="400" %}
+place the images in project folder/images then update the file path.
 
 
 ## Embedding youtube video
@@ -41,10 +44,10 @@ The second video has the autoplay on. copy and paste the 11-digit id found in th
 {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
 {% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
 
-you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
+you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
-{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
+{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}
 
 <br>
 
@@ -102,7 +105,7 @@ console.log(x);
 > A blockquote would look great if you need to highlight something
 
 
-## Adding table 
+## Adding table
 
 | Header 1 | Header 2 |
 |----------|----------|
@@ -111,4 +114,4 @@ console.log(x);
 
 make sure to leave aline betwen the table and the header
 
-
+ -->
