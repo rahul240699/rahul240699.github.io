@@ -29,8 +29,8 @@ resume-url: ./assets/resume/RS_Resume_DE.pdf # or https://drive.google.com/file/
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/rahul-sohandani-9645a8202    # https://www.linkedin.com/in/{your url slug} 
-  github: https://github.com/rahul240699    # https://github.com/{your url slug} 
+  linkedin: rahul-sohandani-9645a8202    # https://www.linkedin.com/in/{your url slug} 
+  github: rahul240699    # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
