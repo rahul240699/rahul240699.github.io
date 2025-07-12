@@ -3,6 +3,7 @@ layout: post
 title: Amazon Reviews Sentiment-Based Price Optimization
 description: This project focuses on dynamically optimizing product prices based on sentiment analysis of customer reviews. The model combines sentiment analysis with reinforcement learning to adjust prices in a way that maximizes revenue while maintaining customer satisfaction.
 skills:
+    - Data Engineering
     - Apache Spark
     - Python
     - Databricks Workspace
