@@ -1,18 +1,16 @@
 ---
 layout: post
 title: SurroundShield – Your AI-Powered Environmental Risk Assistant
-description:  SurroundShield is an advanced AI-powered chatbot that offers real-time, personalized safety insights based on a user's location, weather conditions, and health profile (BMI). Designed with a sleek UI and powered by cutting-edge AI models, it acts as a digital guardian—helping users stay ahead of environmental hazards, community risks, and natural disasters.
+description: SurroundShield is an advanced AI-powered chatbot that offers real-time, personalized safety insights based on a user's location, weather conditions, and health profile (BMI). Designed with a sleek UI and powered by cutting-edge AI models, it acts as a digital guardian—helping users stay ahead of environmental hazards, community risks, and natural disasters. Built for Chubb’s innovation challenge, SurroundShield combines multi-source data, robust backend services, and a fine-tuned LLM (LLaMA 3.3 - 70B) to deliver immediate, actionable, and context-aware guidance.
 
-Built for Chubb’s innovation challenge, SurroundShield combines multi-source data, robust backend services, and a fine-tuned LLM (LLaMA 3.3 - 70B) to deliver immediate, actionable, and context-aware guidance.
-
-skills: 
-  - Databricks
-  - LLM
-  - React.js
-  - Node.js
-  - Flask API
-  - MongoDB
-  - LLAMA
+skills:
+    - Databricks
+    - LLM
+    - React.js
+    - Node.js
+    - Flask API
+    - MongoDB
+    - LLAMA
 
 main-image: /logo-ss.jpeg
 ---
