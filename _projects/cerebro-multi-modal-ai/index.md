@@ -20,7 +20,7 @@ main-image: /System-Design.png
 
 # Code
 
-[Github](https://github.com/rahul240699/Generative-AI-multi-PDF-Chat)
+[Github](https://github.com/rahul240699/cerebro-multimodal-ai-second-brain)
 
 # Video Demo
 [YouTube](https://youtu.be/XK_D3NkX_z0)
